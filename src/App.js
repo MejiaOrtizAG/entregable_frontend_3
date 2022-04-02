@@ -1,6 +1,7 @@
 import Contenedor from "./components/Contenedor/Contenedor";
 
-function App() {
+function App() 
+{
   return (
     <div className="App">
       <Contenedor/>

@@ -1,4 +1,5 @@
-function Opciones({opcionA , opcionB, handleClick}) {
+function Opciones({opcionA , opcionB, handleClick}) 
+{
     return (
       <div className="opciones">
         <div className="opcion">
@@ -11,6 +12,6 @@ function Opciones({opcionA , opcionB, handleClick}) {
         </div>
       </div>
     );
-  }
+}
   
-  export default Opciones;
+export default Opciones;
